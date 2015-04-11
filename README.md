@@ -1,7 +1,7 @@
 # Sass-and-Compass
 This code is from Tuts+ Code's three part video series: Mastering Sass.
 
-The links to the tutorial can be found here:
+The links to these tutorials can be found here:
 
 Part 1: https://www.youtube.com/watch?v=b_-HLevIJbc
 
